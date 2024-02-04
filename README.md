@@ -23,8 +23,8 @@ This is a solution to the [Social links profile component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mehdias63/Results-Summary-Component)
-- Live Site URL: [Add live site URL here](https://results-summary-component-ten-lake.vercel.app)
+- Solution URL: [Add solution URL here](https://github.com/mehdias63/Social-Links-Profile)
+- Live Site URL: [Add live site URL here](https://social-links-profile-jade.vercel.app/)
 
 ## My process
 
