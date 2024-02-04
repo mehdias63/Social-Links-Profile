@@ -3,7 +3,7 @@ import Card from "./components/Card";
 
 function App() {
   return (
-    <main className="bg-black min-h-screen flex justify-center items-center">
+    <main className="bg-black min-h-screen flex justify-center items-center py-14">
       <Card />
     </main>
   );

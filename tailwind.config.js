@@ -7,10 +7,10 @@ export default {
     },
     extend: {
       colors: {
-        "black": "#141414",
+        "black":"#141414",
         "dark-gray":"#1F1F1F",
         "gray":"#333333",
-        "orange":"#FC7614",
+        "light-green":"#C4F82A",
       },
     },
   },
