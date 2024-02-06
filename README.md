@@ -32,4 +32,3 @@ This is a solution to the [Social links profile component challenge on Frontend 
 
 - [React](https://reactjs.org/) - JS library
 - [Tailwind](https://tailwindcss.com/) - For styles
-

@@ -3,7 +3,7 @@ import Button from "./Button";
 
 export default function Card() {
   return (
-    <div className="bg-dark-gray text-white font-inter flex flex-col justify-center items-center p-4 rounded-lg">
+    <div className="w-[20.4375rem] lg:w-[24rem] bg-dark-gray text-white font-inter flex flex-col justify-center items-center p-6 lg:p-10 rounded-lg">
       <img
         src="/images/avatar-jessica.jpeg"
         className="w-[5.5rem] h-[5.5rem] rounded-full"
