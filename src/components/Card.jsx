@@ -16,11 +16,11 @@ export default function Card() {
       <p className="text-sm font-normal leading-[1.3125rem] my-4">
         "Front-end developer and avid reader."
       </p>
-      <Button title="GitHub" text="https://github.com" />
-      <Button title="Frontend Mentor" text="https://frontendmentor.io" />
-      <Button title="LinkedIn" text="https://linkedin.com" />
-      <Button title="Twitter" text="https://twitter.com" />
-      <Button title="Instagram" text="https://instagram.com" />
+      <Button label="GitHub" href="https://github.com" />
+      <Button label="Frontend Mentor" href="https://frontendmentor.io" />
+      <Button label="LinkedIn" href="https://linkedin.com" />
+      <Button label="Twitter" href="https://twitter.com" />
+      <Button label="Instagram" href="https://instagram.com" />
     </div>
   );
 }
